@@ -1,0 +1,50 @@
+@charset "utf-8";
+body{
+  background-color: #ECEFF4;
+}
+.header{
+display: flex;
+margin: 0 auto;
+padding: 0 80px;
+margin: 0 0 50px 0;
+}
+.logo{
+  height: 70px;
+}
+.contact{
+   margin-left: auto;
+   height: 40px;
+   width: 120px;
+   background-color:#4C566A;
+   border-radius: 15%;
+   text-align: center;
+   line-height: 40px;
+   text-decoration: none;
+   color: aliceblue;
+   font-weight: bold;
+}
+.mv{
+  display: flex;
+  gap: 100px;
+  justify-content: center;
+}
+.mv_content{
+ color: #646C7E;
+ font-weight: bold;
+ margin-top: 60px;
+}
+.sakutto{
+  font-size: 2rem;
+}
+.reg{
+  display: block;
+   height: 40px;
+   width: 120px;
+   background-color:#4C566A;
+   border-radius: 15%;
+   text-align: center;
+   line-height: 40px;
+   text-decoration: none;
+   color: aliceblue;
+   margin-top: 20px;
+}
